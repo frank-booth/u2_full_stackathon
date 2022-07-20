@@ -53,7 +53,7 @@ In this group project, you will have **_a day and a half_** to create a **theme 
 
 ---
 
-### **FINAL PRODUCT DUE: Friday, July 22th at 1:30pm EST (complete or not)**
+### **FINAL PRODUCT DUE: Friday, July 22nd at 1:30pm EST (complete or not)**
 
 ---
 
@@ -86,16 +86,15 @@ The folder structure should look like this:
 │   │   ├── index.css
 │   │   └── index.js
 │   └── yarn.lock
-|--server
-|   ├── controllers
-|   │   ├── Controller1.js
-|   │   └── Controller2.js
-|   ├── db
-|   │   └── index.js
-|   ├── models
-|   │   ├── Model1.js
-|   │   ├── Model2.js
-|   │   └── index.js
-|   ├── package.json
-|   └── server.js
+├── controllers
+|   ├── Controller1.js
+|   └── Controller2.js
+├── db
+|   └── index.js
+├── models
+|   ├── Model1.js
+|   ├── Model2.js
+|   └── index.js
+├── package.json
+└── server.js
 ```
